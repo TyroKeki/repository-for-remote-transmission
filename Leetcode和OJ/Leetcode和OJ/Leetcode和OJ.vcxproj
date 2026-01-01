@@ -28,14 +28,12 @@
     <ClCompile Include="OJ6.cpp" />
     <ClCompile Include="OJ7.cpp" />
     <ClCompile Include="OJ填空.cpp" />
-    <ClCompile Include="不再黑框框1.cpp">
-      <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
-    </ClCompile>
     <ClCompile Include="指针调换.cpp" />
     <ClCompile Include="OJ1.cpp" />
     <ClCompile Include="二进制递归.cpp" />
     <ClCompile Include="图形递归1.cpp" />
     <ClCompile Include="图形递归非ai.cpp" />
+    <ClCompile Include="每日一题大数加法.cpp" />
     <ClCompile Include="测试.cpp" />
     <ClCompile Include="递归分形图形.cpp" />
     <ClCompile Include="递归排序.cpp" />

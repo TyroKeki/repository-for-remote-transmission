@@ -1,4 +1,4 @@
-﻿  LC基础1.cpp
-F:\C语言项目\Leetcode和OJ\Leetcode和OJ\LC基础1.cpp(38,15): warning C4101: “k”: 未引用的局部变量
-F:\C语言项目\Leetcode和OJ\Leetcode和OJ\LC基础1.cpp(38,12): warning C4101: “j”: 未引用的局部变量
+﻿  每日一题大数加法.cpp
+F:\C语言项目\Leetcode和OJ\Leetcode和OJ\每日一题大数加法.cpp(7,12): warning C4101: “k”: 未引用的局部变量
+F:\C语言项目\Leetcode和OJ\Leetcode和OJ\每日一题大数加法.cpp(7,9): warning C4101: “j”: 未引用的局部变量
   Leetcode和OJ.vcxproj -> F:\C语言项目\Leetcode和OJ\x64\Debug\Leetcode和OJ.exe

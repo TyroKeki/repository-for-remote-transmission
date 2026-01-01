@@ -47,7 +47,23 @@ int xorOperation(int n, int start) {
     return result;
 }
 
-int main() {
-    int res = xorOperation(4, 3);
-    printf("%d", res);
+
+int numIdenticalPairs(int* nums, int numsSize) {
+    int count[101];
+    int res = 0;
+    int i, j, k;
+    for (i = 0; i < numsSize; i++) {
+        count[nums[i]]++;
+    }
+    for (i = 1; i <= 100; i++) {
+        count[i]--;
+        res += (1 + count[i]) * count[i] / 2;
+    }
+    return res;
 }
+
+
+//int main() {
+//    int res = xorOperation(4, 3);
+//    printf("%d", res);
+//}
